@@ -688,7 +688,7 @@ msgstr "Vazio"
 
 #: cms/envs/common.py:182
 msgid "Studio"
-msgstr "Ecossistema de Aprendizagem"
+msgstr "GiRED"
 
 msgctxt "breadcrumb"
 msgid "Studio"
@@ -26571,7 +26571,7 @@ msgstr "Preferências de Cookies"
 
 #: themes/indigo/lms/templates/dge_footer.html:121
 msgid "Learning Ecosystem. All rights reserved"
-msgstr "Ecossistema de Aprendizagem. Direitos reservados"
+msgstr "GiRED. Direitos reservados"
 
 #: themes/indigo/lms/templates/dge_footer.html:146
 msgid "Essential"
@@ -26591,11 +26591,11 @@ msgstr "Sem classificação"
 
 #: themes/indigo/lms/templates/dge_footer.html:151
 msgid "Cookies required to enable basic website functionality."
-msgstr "Cookies necessários para permitir as funcionalidades básicas do Ecossistema de Aprendizagem."
+msgstr "Cookies necessários para permitir as funcionalidades básicas do GiRED."
 
 #: themes/indigo/lms/templates/dge_footer.html:152
 msgid "Cookies that are used to enhance the functionality of the website."
-msgstr "Cookies utilizados para melhorar a funcionalidade do Ecossistema de Aprendizagem."
+msgstr "Cookies utilizados para melhorar a funcionalidade do GiRED."
 
 #: themes/indigo/lms/templates/dge_footer.html:153
 msgid "Cookies used to deliver advertising that is more relevant to your interests."
@@ -26603,7 +26603,7 @@ msgstr "Cookies utilizados para apresentar anúncios mais relevantes para ti e p
 
 #: themes/indigo/lms/templates/dge_footer.html:154
 msgid "Cookies used to understand how the website is being used."
-msgstr "Cookies utilizados para compreender o funcionamento do Ecossistema de Aprendizagem."
+msgstr "Cookies utilizados para compreender o funcionamento do GiRED."
 
 #: themes/indigo/lms/templates/dge_footer.html:155
 msgid "Cookies that have not yet been categorized."
@@ -26611,11 +26611,11 @@ msgstr "Cookies que ainda não foram categorizados."
 
 #: themes/indigo/lms/templates/dge_footer.html:156
 msgid "We use cookies to improve your experience on this website. You may choose which types of cookies to allow and change your preferences at any time. Disabling cookies may impact your experience on this website. You can learn more by viewing our"
-msgstr "Usamos cookies para melhorar a tua experiência de navegação. Podes escolher os tipos de cookies que permites e alterar as tuas preferências em qualquer altura. A desativação dos cookies pode afetar a tua experiência neste Ecossistema de Aprendizagem. Para saberes mais, consulta a nossa"
+msgstr "Usamos cookies para melhorar a tua experiência de navegação. Podes escolher os tipos de cookies que permites e alterar as tuas preferências em qualquer altura. A desativação dos cookies pode afetar a tua experiência neste GiRED. Para saberes mais, consulta a nossa"
 
 #: themes/indigo/lms/templates/dge_footer.html:32
 msgid "The Learning Ecosystem is funded by the Recovery and Resilience Plan and NextGenerationEU."
-msgstr "O Ecossistema de Aprendizagem é financiado pelo Plano de Recuperação e Resiliência e o NextGenerationEU."
+msgstr "O GiRED é financiado pelo Plano de Recuperação e Resiliência e o NextGenerationEU."
 
 #: themes/indigo/cms/templates/maintenance/index.html:32
 #: cms/djangoapps/maintenance/views.py:38
